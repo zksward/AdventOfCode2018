@@ -17,4 +17,4 @@ const findRepeatedFrequency = (data) => {
     }
 }
 
-console.log(findRepeatedFrequency(data))https://github.com/zksward/AdventOfCode2018.git
+console.log(findRepeatedFrequency(data))
